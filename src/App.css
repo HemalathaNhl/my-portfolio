@@ -1,38 +1,107 @@
-.App {
+body {
+  background-color: #efc9d0ce;
+}
+header {
+  text-align: center;
+}
+h2 {
+  margin-top: 10px;
+}
+.bio {
+  display: flex;
+  flex-direction: row;
+  margin: 2% 20%;
+  gap: 10%;
+  flex-wrap: wrap;
+}
+.desc {
+  width: 50%;
+}
+.picture {
+  width: 307px;
+  height: 205px;
+  border-radius: 50%;
+}
+.name {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.phone,
+.email,
+.whatsapp {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+ul li {
+  list-style-type: none;
+}
+.contact li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.header-details {
+  display: flex;
+  justify-content: center;
+  gap: 3%;
+}
+.services,
+.technologies {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 20%;
+  flex-wrap: wrap;
+}
+.services,
+.technologies li,
+.contact li {
+  margin-bottom: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header-details ul {
+  margin: 0;
+  padding: 20px 20px 20px;
+  z-index: 100;
+  background-color: #efc9d0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.header-details .services,
+.header-details .technologies,
+.header-details .contact {
+  position: relative;
+}
+.header-details .services ul,
+.header-details .technologies ul {
+  position: absolute;
+  top: 80%;
+  left: 3%;
+  display: none;
+}
+.header-details .services:hover ul,
+.header-details .technologies:hover ul {
+  display: block;
+}
+.footer-details .contact {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.footer-details .contact h3 {
+  margin-left: -50%;
+}
+.footer-details ul {
+  display: flex;
+  flex-direction: row;
+  gap: 1%;
+  flex-wrap: wrap;
+  width: 60%;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.footer-details ul li {
+  width: 30%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.copyright {
+  text-align: center;
 }

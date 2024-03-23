@@ -39,7 +39,7 @@ function App() {
           </p>
         </div>
         <img
-          src="./images/hema-solo-pp.png"
+          src="/my-portfolio/images/hema-solo-pp.png"
           alt="Hemalatha N"
           className="picture"
         />

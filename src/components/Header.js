@@ -20,7 +20,7 @@ const Header = () => {
           <li>Responsive web design</li>
         </ul>
       </div>
-      <div>
+      <div className="contact-link">
         <a href="#contact">
           <h3>Contact</h3>
         </a>

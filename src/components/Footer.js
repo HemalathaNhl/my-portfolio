@@ -19,7 +19,7 @@ const Footer = () => {
               src="/my-portfolio/images/email.png"
               alt="Mail"
             />
-            <a href="mailto:heman.techie@gmail.com">heman.techie@gmail.com</a>
+            <a href="mailto:hemalatha.nhl@gmail.com">hemalatha.nhl@gmail.com</a>
           </li>
           <li>
             <img

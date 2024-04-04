@@ -29,7 +29,14 @@ function App() {
             I have had an opportunity to work on projects from e-learning,
             set-top box, insurance domains.
           </p>
-          <p>I'm looking forward to working on awesome projects!!</p>
+          <p>
+            I'm looking forward to working on great projects for clients around
+            globe.
+          </p>
+          <p>
+            Reach out to me with your ideas and specifications. And, You shall
+            have a great web application!!
+          </p>
         </div>
         <img
           src="/my-portfolio/images/hema-solo-pp.png"

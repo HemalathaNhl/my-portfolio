@@ -30,12 +30,8 @@ function App() {
             set-top box, insurance domains.
           </p>
           <p>
-            I'm looking forward to working on great projects for clients around
-            globe.
-          </p>
-          <p>
-            Reach out to me with your ideas and specifications. And, You shall
-            have a great web application!!
+            I'm looking forward to extend my skills, abilities and enhance my
+            career.
           </p>
         </div>
         <img

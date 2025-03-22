@@ -30,7 +30,8 @@ function App() {
             set-top box, insurance domains.
           </p>
           <p>
-            I look forward to working on enhancing projects and contribute to the growth of organisations.
+            I look forward to working on enhancing projects and contribute to
+            the growth of organisations.
           </p>
         </div>
         <img

@@ -1,7 +1,7 @@
 const Copyright = () => {
   return (
     <div className="copyright">
-      <span>©2024 Hemalatha N.</span> All rights reserved.
+      <span>©2025 Hemalatha N.</span> All rights reserved.
     </div>
   );
 };

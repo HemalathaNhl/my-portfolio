@@ -11,11 +11,11 @@ function App() {
       <div className="bio">
         <div className="desc">
           <p>
-            This is <strong>Hema</strong>, with 12 years of experience in
-            Front-end development.
+            This is <strong>Hema</strong>, with 12 years of work experience in
+            front-end development.
           </p>
           <p>
-            Initially, I was into Front-end development using Flash and
+            Initially, I was into front-end development using Flash and
             ActionScript. Later on, moved onto JavaScript technologies.
           </p>
           <p>
@@ -30,8 +30,7 @@ function App() {
             set-top box, insurance domains.
           </p>
           <p>
-            I'm looking forward to extend my skills, abilities and enhance my
-            career.
+            I'm looking forward to working on enhancing projects and contribute to the growth of organisations.
           </p>
         </div>
         <img

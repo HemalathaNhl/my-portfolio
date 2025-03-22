@@ -26,7 +26,7 @@ function App() {
             </strong>
           </p>
           <p>
-            I have had an opportunity to work on projects from e-learning,
+            I have had opportunities to work on projects from e-learning,
             set-top box, insurance domains.
           </p>
           <p>

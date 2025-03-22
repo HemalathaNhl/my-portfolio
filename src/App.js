@@ -16,7 +16,8 @@ function App() {
           </p>
           <p>
             Initially, I was into front-end development using Flash and
-            ActionScript. Later on, moved onto JavaScript technologies.
+            ActionScript. Later on, started working with JavaScript
+            technologies.
           </p>
           <p>
             My current skill set majorly includes{" "}
